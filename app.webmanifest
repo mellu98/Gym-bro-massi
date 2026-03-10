@@ -4,7 +4,7 @@
   "short_name": "Massi Gym",
   "description": "Scheda allenamento Massi Gym installabile come PWA.",
   "lang": "it",
-  "start_url": "./index.html",
+  "start_url": "./",
   "scope": "./",
   "display": "standalone",
   "orientation": "portrait",
